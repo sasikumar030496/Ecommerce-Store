@@ -1,0 +1,16 @@
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchBox input {
+  width: 30%;
+  min-width: 200px;
+  height: 2.5rem;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 2px;
+  font-size: 1rem;
+}
